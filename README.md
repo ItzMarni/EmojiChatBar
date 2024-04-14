@@ -2,6 +2,7 @@
     <h1>Emoji Chat Bar</h1>
     <p>ChatTriggers module for a emoji bar above the chatbar.</p>
 </div>
+
 ---
 
 ## 🚀 How to install
