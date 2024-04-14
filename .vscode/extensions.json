@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "maxssho13.chattriggers",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "exodiusstudios.comment-anchors",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ]
+}

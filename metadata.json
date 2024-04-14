@@ -1,0 +1,7 @@
+{
+  "name": "Chat Emoji Bar",
+  "creator": "ItzMarni",
+  "description": "ChatTriggers module for a emoji bar above the chatbar.",
+  "version": "1.0.0",
+  "entry": "src/index.js"
+}

@@ -1,0 +1,17 @@
+# Distribution
+**/dist/**
+
+# NPM Packages
+node_modules
+
+# ESLint
+.eslintrc.{js,yml,json}
+
+# VS Code
+.vscode
+
+# Database
+.prisma
+
+# Logs
+logs
