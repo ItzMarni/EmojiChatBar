@@ -8,6 +8,7 @@
 ## 🚀 How to install
 Automatic:
 1. Run the `/ct import ChatEmojiBar` command
+
 Manual:
 1. Download the module from the [`Releases`] tab.
 2. Move it to ur ChatTriggers modules folder.
